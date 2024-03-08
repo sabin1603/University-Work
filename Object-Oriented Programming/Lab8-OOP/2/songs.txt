@@ -1,0 +1,277 @@
+ARTIST="The Beatles"
+TITLE = "Hey Jude"
+LYRICS = "Hey Jude, don't make it bad.
+Take a sad song and make it better.
+Remember to let her into your heart,
+Then you can start to make it better.
+Hey Jude, don't be afraid.
+You were made to go out and get her.
+The minute you let her under your skin,
+Then you begin to make it better.
+And anytime you feel the pain, hey Jude, refrain,
+Don't carry the world upon your shoulders.
+For well you know that it's a fool who plays it cool
+By making his world a little colder.
+Hey Jude, don't let me down.
+You have found her, now go and get her.
+Remember to let her into your heart,
+Then you can start to make it better.
+So let it out and let it in, hey Jude, begin,
+You're waiting for someone to perform with.
+And don't you know that it's just you, hey Jude, you'll do,
+The movement you need is on your shoulder.
+Hey Jude, don't make it bad.
+Take a sad song and make it better.
+Remember to let her under your skin,
+Then you'll begin to make it
+Better better better better better better, oh.
+Na na na nananana, nannana, hey Jude..."
+
+
+ARTIST="The Beatles"
+TITLE="I Saw Her Standing There"
+Lyrics="(1,2,3,4!)
+
+Well, she was just seventeen
+You know what I mean
+And the way she looked was way beyond compare
+So how could I dance with another (Ooh)
+When I saw her standing there
+
+Well she looked at me, and I, I could see
+That before too long I'd fall in love with her
+She wouldn't dance with another (Whooh)
+When I saw her standing there
+
+Well, my heart went "boom"
+When I crossed that room
+And I held her hand in mine
+
+Whoah, we danced through the night
+And we held each other tight
+And before too long I fell in love with her
+Now I'll never dance with another (Whooh)
+When I saw her standing there
+
+Well, my heart went "boom"
+When I crossed that room
+And I held her hand in mine
+
+Whoah, we danced through the night
+And we held each other tight
+And before too long I fell in love with her
+Now I'll never dance with another (Whooh)
+Since I saw her standing there
+Oh since I saw her standing there
+Oh since I saw her standing there"
+
+ARTIST="The Beatles"
+TITLE="Yesterday"
+Lyrics="Yesterday all my troubles seemed so far away.
+Now it looks as though they're here to stay.
+Oh, I believe in yesterday.
+
+Suddenly, I'm not half the man I used to be.
+There's a shadow hanging over me.
+Oh, yesterday came suddenly.
+
+Why she had to go?
+I don't know, she wouldn't say.
+I said something wrong.
+Now I long for yesterday.
+
+Yesterday love was such an easy game to play.
+Now I need a place to hide away.
+Oh, I believe in yesterday.
+
+Why she had to go?
+I don't know, she wouldn't say.
+I said something wrong.
+Now I long for yesterday.
+
+Yesterday love was such an easy game to play.
+Now I need a place to hide away.
+Oh, I believe in yesterday.
+
+Mm mm mm mm mm mm mm."
+
+ARTIST="Adele"
+TITLE="Someone Like You"
+LYRICS="I heard that you're settled down
+That you found a girl and you're married now
+I heard that your dreams came true
+Guess she gave you things, I didn't give to you
+Old friend, why are you so shy?
+Ain't like you to hold back or hide from the light
+I hate to turn up out of the blue, uninvited
+But I couldn't stay away, I couldn't fight it
+I had hoped you'd see my face
+And that you'd be reminded that for me, it isn't over
+Never mind, I'll find someone like you
+I wish nothing but the best for you, too
+"Don't forget me, " I beg
+I remember you said
+"Sometimes it lasts in love, but sometimes it hurts instead"
+"Sometimes it lasts in love, but sometimes it hurts instead"
+You know how the time flies
+Only yesterday was the time of our lives
+We were born and raised in a summer haze
+Bound by the surprise of our glory days
+I hate to turn up out of the blue, uninvited
+But I couldn't stay away, I couldn't fight it
+I had hoped you'd see my face
+And that you'd be reminded that for me, it isn't over
+Never mind, I'll find someone like you
+I wish nothing but the best for you, too
+"Don't forget me, " I begged
+I remember you said
+"Sometimes it lasts in love, but sometimes it hurts instead"
+Nothing compares, no worries or cares
+Regrets and mistakes, they're memories made
+Who would have known how bittersweet this would taste?
+Never mind, I'll find someone like you
+I wish nothing but the best for you
+"Don't forget me, " I beg
+I remember you said
+"Sometimes it lasts in love, but sometimes it hurts instead"
+Never mind, I'll find someone like you
+I wish nothing but the best for you, too
+"Don't forget me, " I begged
+I remember you said
+"Sometimes it lasts in love, but sometimes it hurts instead"
+"Sometimes it lasts in love, but sometimes it hurts instead""
+
+
+
+ARTIST="Adele"
+TITLE="Rolling in the Deep"
+Lyrics="There's a fire starting in my heart
+Reaching a fever pitch, it's bringing me out the dark
+Finally I can see you crystal clear
+Go ahead and sell me out and I'll lay your ship bare
+See how I'll leave with every piece of you
+Don't underestimate the things that I will do
+There's a fire starting in my heart
+Reaching a fever pitch and it's bringing me out the dark
+The scars of your love remind me of us
+They keep me thinking that we almost had it all
+The scars of your love they leave me breathless
+I can't help feeling
+We could've had it all (you're gonna wish you)
+(Never had met me)
+Rolling in the deep (tears are gonna fall)
+(Rolling in the deep)
+You had my heart inside (you're gonna wish you)
+Of your hands (never had met me)
+And you played it (tears are gonna fall)
+To the beat (rolling in the deep)
+Baby, I have no story to be told
+But I've heard one on you, now I'm gonna make your head burn
+Think of me in the depths of your despair
+Make a home down there, as mine sure won't be shared
+The scars of your love (never had met me)
+Remind me of us (tears are gonna fall)
+They keep me thinking (rolling in the deep)
+That we almost had it all (you're gonna wish you)
+The scars of your love (never had met me)
+They leave me breathless (tears are gonna fall)
+I can't help feeling (rolling in the deep)
+We could've had it all (you're gonna wish you)
+(Never had met me)
+Rolling in the deep (tears are gonna fall)
+(Rolling in the deep)
+You had my heart inside (you're gonna wish you)
+Of your hands (never had met me)
+And you played it (tears are gonna fall)
+To the beat (rolling in the deep)
+We could've had it all
+Rolling in the deep
+You had my heart inside of your hand
+But you played it with a beating
+Throw your soul through every open door (whoa)
+Count your blessings to find what you look for (whoa)
+Turn my sorrow into treasured gold (whoa)
+You pay me back in kind and reap just what you've sown
+We could've had it all (tears are gonna fall, rolling in the deep)
+We could've had it all (you're gonna wish you never had met me)
+It all, it all, it all (tears are gonna fall, rolling in the deep)
+We could've had it all (you're gonna wish you)
+(Never had met me)
+Rolling in the deep (tears are gonna fall)
+(Rolling in the deep)
+You had my heart inside (you're gonna wish you)
+Of your hands (never had met me)
+And you played it (tears are gonna fall)
+To the beat (rolling in the deep)
+Could've had it all (you're gonna wish you)
+(Never had met me)
+Rolling in the deep (tears are gonna fall)
+(Rolling in the deep)
+You had my heart inside (you're gonna wish you)
+Of your hands (never had met me)
+But you played it, you played it, you played it
+You played it to the beat
+"
+
+
+ARTIST="Queen"
+TITLE="Bohemian Rhapsody"
+LYRICS="Is this the real life?
+Is this just fantasy?
+Caught in a landside,
+No escape from reality
+Open your eyes,
+Look up to the skies and see,
+I'm just a poor boy, I need no sympathy,
+Because I'm easy come, easy go,
+Little high, little low,
+Any way the wind blows doesn't really matter to
+Me, to me
+Mamaaa,
+Just killed a man,
+Put a gun against his head, pulled my trigger,
+Now he's dead
+Mamaaa, life had just begun,
+But now I've gone and thrown it all away
+Mama, oooh,
+Didn't mean to make you cry,
+If I'm not back again this time tomorrow,
+Carry on, carry on as if nothing really matters
+Too late, my time has come,
+Sends shivers down my spine, body's aching all
+The time
+Goodbye, everybody, I've got to go,
+Gotta leave you all behind and face the truth
+Mama, oooh
+I don't want to die,
+I sometimes wish I'd never been born at all.
+I see a little silhouetto of a man,
+Scaramouch, Scaramouch, will you do the Fandango!
+Thunderbolts and lightning, very, very frightening me
+Galileo, Galileo
+Galileo, Galileo
+Galileo, Figaro - magnificoo
+I'm just a poor boy nobody loves me
+He's just a poor boy from a poor family,
+Spare him his life from this monstrosity
+Easy come, easy go, will you let me go
+Bismillah! No, we will not let you go
+(Let him go!) Bismillah! We will not let you go
+(Let him go!) Bismillah! We will not let you go
+(Let me go) Will not let you go
+(Let me go)(Never) Never let you go
+(Let me go) (Never) let you go (Let me go) Ah
+No, no, no, no, no, no, no
+Oh mama mia, mama mia, mama mia, let me go
+Beelzebub has a devil put aside for me, for me,
+For meee
+So you think you can stop me and spit in my eye
+So you think you can love me and leave me to die
+Oh, baby, can't do this to me, baby,
+Just gotta get out, just gotta get right outta here
+Nothing really matters, Anyone can see,
+Nothing really matters,
+Nothing really matters to me
+Any way the wind blows..."
+
+
