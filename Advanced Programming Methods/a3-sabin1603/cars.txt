@@ -1,0 +1,5 @@
+Audi A4,2013,280000
+Kia Sportage,2016,180000
+Nissan X-Trail,2016,260000
+Volvo S60,2012,250000
+Lamborghini Urus,2023,8000

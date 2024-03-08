@@ -1,0 +1,5 @@
+customer4,George,21
+customer5,Badau,18
+customer2,Calin,20
+customer3,Darian,19
+customer1,Sabin,20

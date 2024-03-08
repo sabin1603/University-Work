@@ -1,0 +1,6 @@
+rentalId1, carId1, customerId1, 2023-03-16, 2023-03-26
+rentalId2, carId2, customerId2, 2023-02-01, 2023-02-08
+rentalId3, carId3, customerId3, 2023-05-04, 2023-05-15
+rentalId4, carId4, customerId4, 2023-10-11, 2023-10-18
+rentalId5, carId5, customerId5, 2023-11-21, 2023-11-30
+
