@@ -1,0 +1,38 @@
+use Olimpice
+go
+
+CREATE TABLE Stadium
+(StId INT PRIMARY KEY IDENTITY,
+Name varchar(50) NOT NULL, 
+Adress varchar(50) NOT NULL)
+
+CREATE TABLE Sports
+(SpId INT PRIMARY KEY IDENTITY,
+Name varchar(100) NOT NULL, 
+StId INT FOREIGN KEY REFERENCES Stadium(StId))
+
+CREATE TABLE Country
+(Cid INT PRIMARY KEY,
+Name varchar(50) NOT NULL, 
+Medals_Won int,
+SpId INT FOREIGN KEY REFERENCES Sports(SpId))
+
+CREATE TABLE Volunteer
+(VolId INT PRIMARY KEY IDENTITY,
+Name varchar(50) NOT NULL, 
+age int NOT NULL,
+StID INT FOREIGN KEY REFERENCES Stadium(StId))
+
+CREATE TABLE Participant 
+(Pid INT PRIMARY KEY IDENTITY,
+Name varchar(50) NOT NULL,
+Medals int)
+
+CREATE TABLE Sponsor
+(SponId INT PRIMARY KEY IDENTITY,
+Name varchar(50) NOT NULL, 
+Money_Invested int, 
+SpId INT FOREIGN KEY REFERENCES Sports(SpId))
+
+
+
