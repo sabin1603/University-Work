@@ -1,0 +1,3 @@
+﻿  Set.cpp
+C:\Users\Sabin\source\repos\DS-Lab4\Set\Set.h(13,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+  DS-Lab4.vcxproj -> C:\Users\Sabin\source\repos\DS-Lab4\x64\Debug\DS-Lab4.exe
